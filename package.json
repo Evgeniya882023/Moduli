@@ -1,0 +1,24 @@
+{
+  "name": "moduli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "serve": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Evgeniya882023/Moduli.git"
+  },
+  "author": "Evgeniya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Evgeniya882023/Moduli/issues"
+  },
+  "homepage": "https://github.com/Evgeniya882023/Moduli#readme",
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "save-dev": "^0.0.1-security"
+  }
+}
