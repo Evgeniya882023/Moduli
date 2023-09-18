@@ -1,3 +1,4 @@
+import Character from "./domain";
 export class Game {
     start() {
       console.log('game started');
@@ -15,5 +16,5 @@ export class Game {
   
   export function writeGameSaving() {
   }
-  import "./domain.js";
+ 
   

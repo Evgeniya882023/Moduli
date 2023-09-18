@@ -1,4 +1,3 @@
+import Game, {readGameSaving as loadGame,GameSavingData,writeGameSaving as saveGame} from'../Game/game';
 const game = new Game();
 game.start();
-import "./game.js", {readGameSaving as loadGame, writeGameSaving as saveGame } from "./game.js";
-import "./domain.js";
